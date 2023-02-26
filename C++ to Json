@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Ronan Smauel Craig C. Francisco",
+            "Age": "22",
+            "Favorite_Quote": "Live a life with opportunities"
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "2001102751@student.buksu.edu.ph"
+        }
+    ]
+}
